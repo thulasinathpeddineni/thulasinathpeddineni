@@ -7,7 +7,7 @@
 - 🧠 Deep Learning and Machine Learning  
 - 🚀 Building scalable AI and freelancing platforms  
 - 🐍 Python and SQL  
-- 🐧 Linux and Shell Scripting  
+- 🐧 Linux 
 - 💾 SSMS and High Availability Solutions  
 - 📊 Power BI for Data Visualization  
 - ⚙️ ServiceNow and Automation  
@@ -16,7 +16,7 @@
 ---
 
 ## 📅 Hobbies
-- 🧩 Solving programming challenges on LeetCode, Codeforces, and HackerRank  
+- 🧩 Solving programming challenges on LeetCode and HackerRank  
 - 🎮 Playing video games and watching anime  
 - 📚 Exploring AI and experimenting with LLMs  
 - 🛠️ Learning and testing new frameworks and technologies  
